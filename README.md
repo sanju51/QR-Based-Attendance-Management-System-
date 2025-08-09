@@ -15,7 +15,7 @@ The system provides **real-time attendance tracking**, **personal dashboards for
 - Manual attendance is **time-consuming** and prone to **errors/fraud**.  
 - **QR codes are fast, secure, and easy to deploy** (works on any device with a camera).  
 - Suitable for **colleges, schools, events, and offices**.  
-- Uses **modern tech stack (React + Firebase)** → resume-worthy and scalable.
+- Uses **modern tech stack (React + Firebase)** → scalable.
 
 ---
 
